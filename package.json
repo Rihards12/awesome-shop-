@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "mysql": "github:mysqljs/mysql",
-    "node": "^15.10.0"
-  }
-}
-
